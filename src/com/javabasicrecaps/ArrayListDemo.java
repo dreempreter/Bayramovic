@@ -33,6 +33,7 @@ public static void main(String[] args) {
 	for(int elements: numbers)
 	{
 		System.out.println(elements);
+		System.out.println("Yeni Deyisiklikler");
 	}
 	
 	
