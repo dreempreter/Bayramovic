@@ -20,6 +20,7 @@ public static void main(String[] args) {
 	while(it.hasNext()) {
 		if((int)it.next()==89) {
 			System.out.println("We found 89");
+			System.out.println();
 		}
 	}
 }
